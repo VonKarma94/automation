@@ -6,7 +6,7 @@ Library    String
 
 *** Variables ***
 ${USERNAME}    nicezefer@gmail.com
-${PASSWORD}    16892495nN!
+${PASSWORD}    
 ${CHROME_PATH}    C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe
 ${URL}     https://www.infojobs.net/candidate/candidate-login/candidate-login.xhtml?dgv=1718954201266
 
