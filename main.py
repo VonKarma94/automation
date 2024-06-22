@@ -7,7 +7,7 @@ import os
 # Se podría tomar la password desde el vault de Windows o de un vault online también.
 
 username = 'nicezefer@gmail.com'
-password = '16892495nN!'
+password = '' #Aquí, entre las comillas simples, inserta tu password.
 
 # Configuramos de antemano la carpeta donde se almacenan las imágenes de referencia
 os.chdir(os.path.join(os.path.dirname(__file__), "screenshotsElementos"))

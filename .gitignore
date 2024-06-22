@@ -1,4 +1,6 @@
 # Default ignored files
+/shelf/
+/workspace.xml
 /report.html
 /output.xml
 /log.html
