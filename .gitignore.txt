@@ -1,0 +1,5 @@
+# Default ignored files
+/report.html
+/output.xml
+/log.html
+/.idea
